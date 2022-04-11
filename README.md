@@ -143,7 +143,7 @@ Use the `Browse...` button to navigate to the git directory that was chosen as t
 
 Select 'launch' and choose 'cli_test hs2.lauch' and 'cli_test opellald.launch'.
 
-![step14](https://user-images.githubusercontent.com/69203453/162721691-12193af6-15aa-4cd9-88c4-5c79c9946db1.png)
+![step14](./images/14-SelectLaunchConfigurations.png)
 
 #### Step 7.5:
 Under the `Run` menu select `Debug Configurations...`
